@@ -1,2 +1,9 @@
 i am fine
 I am facing some issue related to creating my SAP id. As per trailing mail & below attached screen shot, Mentioned approver is Mr. Vijay Kumar singh sir , Who have already left the organization . so kindly change the approver to current HOD  i.e. Mr. Neeraj Vij Sir. 
+
+
+
+[200~GRC request 10120 has been processed from our end for creation of your SAP ID and it is now pending for approval with HOD, IT AVP.
+
+Once request is closed with all workflow approvals you will receive an email from WF-BATCH user stating your request is complete. And then you can set password for your system in AWL Portal as below process.
+
