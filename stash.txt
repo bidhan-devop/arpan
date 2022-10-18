@@ -7,3 +7,7 @@ I am facing some issue related to creating my SAP id. As per trailing mail & bel
 
 Once request is closed with all workflow approvals you will receive an email from WF-BATCH user stating your request is complete. And then you can set password for your system in AWL Portal as below process.
 
+
+
+stash check ......
+
