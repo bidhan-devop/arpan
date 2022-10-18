@@ -11,3 +11,5 @@ Once request is closed with all workflow approvals you will receive an email fro
 
 stash check ......
 
+now working fine noe i need to check revert command.
+
