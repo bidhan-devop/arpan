@@ -4,3 +4,6 @@ I am facing some issue related to creating my SAP id. As per trailing mail & bel
 
 date 19.10.2022 time 15.10 pm
 
+
+today date 01.11.2022
+
